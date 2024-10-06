@@ -1,3 +1,4 @@
 # spotify-clone
 
-I have made a spotify clone app by using HTML & CSS
+It's a Spotify Clone App Built Using HTML & CSS
+
